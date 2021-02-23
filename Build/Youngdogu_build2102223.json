@@ -1,0 +1,16 @@
+{
+"companyName": "SeoChangWoo",
+"productName": "영도구 고장의 문화 유산",
+"productVersion": "0.1",
+"dataUrl": "Youngdogu_build2102223.data.unityweb",
+"wasmCodeUrl": "Youngdogu_build2102223.wasm.code.unityweb",
+"wasmFrameworkUrl": "Youngdogu_build2102223.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.3f1"
+}
